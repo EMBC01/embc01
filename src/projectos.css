@@ -1,0 +1,58 @@
+.projectos{
+ padding-top: 250px;
+text-align: center;
+  
+
+}
+
+
+.projectos img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    padding: 10px;
+    transition: all .7s;
+    border-radius: 20px;
+  /*   box-shadow: 0 0 0.7142857142857143rem #103a49; */
+ 
+}
+.projectos img:hover{
+    transform: scale(1.1);
+    transition: all .7s;
+}
+
+.projectos_flex{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+@media (max-width: 750px) {
+    .projectos_flex{
+        flex-direction: column;
+        width: 100%;
+       
+     }
+     .projectos h2{
+        font-size: 1.7em;
+        line-height: 1.8em;
+    }
+    .projectos p{
+        font-size: 1.1em;
+    }
+
+
+     .proyectos{
+        width: 100%;
+     }
+     .projectos{
+        padding-top: 170px;
+       text-align: center;
+         
+       
+       }
+}
