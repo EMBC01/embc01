@@ -1,7 +1,7 @@
 {
-  "main.css": "/embc01/static/css/main.c19180a0.chunk.css",
-  "main.js": "/embc01/static/js/main.893f234d.chunk.js",
-  "main.js.map": "/embc01/static/js/main.893f234d.chunk.js.map",
+  "main.css": "/embc01/static/css/main.3e0e3a72.chunk.css",
+  "main.js": "/embc01/static/js/main.3985c801.chunk.js",
+  "main.js.map": "/embc01/static/js/main.3985c801.chunk.js.map",
   "static/js/1.24146514.chunk.js": "/embc01/static/js/1.24146514.chunk.js",
   "static/js/1.24146514.chunk.js.map": "/embc01/static/js/1.24146514.chunk.js.map",
   "static/css/2.5a0dc0a5.chunk.css": "/embc01/static/css/2.5a0dc0a5.chunk.css",
@@ -69,9 +69,9 @@
   "static/media/servicios.css": "/embc01/static/media/sx.53df288a.jpg",
   "static/media/soldadura2.jpg": "/embc01/static/media/soldadura2.6adab039.jpg",
   "static/media/contacto.css": "/embc01/static/media/2.4de1b442.jpg",
-  "static/css/main.c19180a0.chunk.css.map": "/embc01/static/css/main.c19180a0.chunk.css.map",
   "static/css/2.5a0dc0a5.chunk.css.map": "/embc01/static/css/2.5a0dc0a5.chunk.css.map",
+  "static/css/main.3e0e3a72.chunk.css.map": "/embc01/static/css/main.3e0e3a72.chunk.css.map",
   "index.html": "/embc01/index.html",
-  "precache-manifest.e636d85dc748fa881af78637930474bb.js": "/embc01/precache-manifest.e636d85dc748fa881af78637930474bb.js",
+  "precache-manifest.09eaf5587534c4629d54e05f433fdfa2.js": "/embc01/precache-manifest.09eaf5587534c4629d54e05f433fdfa2.js",
   "service-worker.js": "/embc01/service-worker.js"
 }
