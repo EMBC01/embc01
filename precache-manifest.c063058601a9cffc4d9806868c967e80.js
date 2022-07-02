@@ -1,55 +1,47 @@
 self.__precacheManifest = [
   {
-    "revision": "f0f58a9a765e40b341f2",
-    "url": "/embc01/static/css/main.dcbde743.chunk.css"
+    "revision": "a57d743e58e7ecea09d6",
+    "url": "/embc01/static/css/main.5b1bca56.chunk.css"
   },
   {
-    "revision": "f0f58a9a765e40b341f2",
-    "url": "/embc01/static/js/main.f0f58a9a.chunk.js"
+    "revision": "a57d743e58e7ecea09d6",
+    "url": "/embc01/static/js/main.a57d743e.chunk.js"
   },
   {
-    "revision": "24146514d4cee91364ef",
-    "url": "/embc01/static/js/1.24146514.chunk.js"
+    "revision": "0838ac89c27b80834617",
+    "url": "/embc01/static/js/1.0838ac89.chunk.js"
   },
   {
-    "revision": "2ccbd95f892f2fb31b35",
-    "url": "/embc01/static/css/2.5a0dc0a5.chunk.css"
+    "revision": "ad8406f84cea22f55c84",
+    "url": "/embc01/static/css/2.42c485a0.chunk.css"
   },
   {
-    "revision": "2ccbd95f892f2fb31b35",
-    "url": "/embc01/static/js/2.2ccbd95f.chunk.js"
+    "revision": "ad8406f84cea22f55c84",
+    "url": "/embc01/static/js/2.ad8406f8.chunk.js"
   },
   {
-    "revision": "12419a8abed1d89ebbf1",
-    "url": "/embc01/static/js/runtime~main.12419a8a.js"
-  },
-  {
-    "revision": "903cecc8046b6bd5a8977180d00b9ff4",
-    "url": "/embc01/static/media/cae2f24e21aa45ec8d2d235428115thumbnail.903cecc8.jpg"
+    "revision": "0302a20b7c587f03cf5f",
+    "url": "/embc01/static/js/runtime~main.0302a20b.js"
   },
   {
     "revision": "496df0942f8882d6b0fb865ec15b835a",
     "url": "/embc01/static/media/cfe-1230x706.496df094.png"
   },
   {
+    "revision": "037da69e4b5629ad0d9ff5cffa9d4baa",
+    "url": "/embc01/static/media/contruplan.037da69e.png"
+  },
+  {
     "revision": "5b1eb162621ab9d3d0a97790d13d6732",
     "url": "/embc01/static/media/descarga.5b1eb162.jfif"
   },
   {
-    "revision": "2d6d45d6c15cf23a2b6c2f2f473ad684",
-    "url": "/embc01/static/media/gunor.2d6d45d6.png"
+    "revision": "e15c925ef4d1c284bf353ff6394ef5f5",
+    "url": "/embc01/static/media/Mineria.e15c925e.jpg"
   },
   {
     "revision": "3a037b0fabe6520986d680f07c27334b",
     "url": "/embc01/static/media/soldadura1.3a037b0f.jpg"
-  },
-  {
-    "revision": "264899912133b217d7d29f7c88a79c1b",
-    "url": "/embc01/static/media/pintura.26489991.jpg"
-  },
-  {
-    "revision": "f55a69eb262a9401c30c7378b3a496ba",
-    "url": "/embc01/static/media/montaje.f55a69eb.jpg"
   },
   {
     "revision": "a48358048cdff4c8483f8e7340627379",
@@ -60,16 +52,12 @@ self.__precacheManifest = [
     "url": "/embc01/static/media/PC1.81eb4d15.jpg"
   },
   {
-    "revision": "13f8e822baeac1c1db97368c23ecd8f8",
-    "url": "/embc01/static/media/12aa0516-01fe-4998-984f-2fefc3c600e4.13f8e822.jpg"
+    "revision": "13f6cc6f4890431b166c846b00ee292b",
+    "url": "/embc01/static/media/Comercial.13f6cc6f.jpeg"
   },
   {
-    "revision": "2d3e884d64df7f9d045104ad0a3960d2",
-    "url": "/embc01/static/media/147ea45f-6918-4272-8e4c-97fb3b0da049.2d3e884d.jpg"
-  },
-  {
-    "revision": "38b12a3ca015ea1dd5a9969ad4b24e0e",
-    "url": "/embc01/static/media/5258ec1d-7dea-4481-ae2a-db238e35f04c.38b12a3c.jpg"
+    "revision": "8ccc23c6fa5f8f53b5068919bd5bfe27",
+    "url": "/embc01/static/media/Industrial.8ccc23c6.jpg"
   },
   {
     "revision": "3ba7b912709f67c04e6938df5bc7079b",
@@ -88,8 +76,12 @@ self.__precacheManifest = [
     "url": "/embc01/static/media/1581636136506.4f850c57.jfif"
   },
   {
-    "revision": "a0a42cdbbec47fd050fe03941a678b80",
-    "url": "/embc01/static/media/fotonoticia_20180507092506_420.a0a42cdb.jpg"
+    "revision": "e96a8ce44411646ab315c15a3adecb1b",
+    "url": "/embc01/static/media/solensa.e96a8ce4.jpg"
+  },
+  {
+    "revision": "99d07cc8329a8c1d08ed3bf4df020d53",
+    "url": "/embc01/static/media/minera_sapuchi.99d07cc8.png"
   },
   {
     "revision": "516ae2d419d458e5baf534d77f807600",
@@ -104,12 +96,24 @@ self.__precacheManifest = [
     "url": "/embc01/static/media/socio-tijuanaedc-haskell.aadc6ada.png"
   },
   {
-    "revision": "7959ccf4ad676c0fee124c818932727c",
-    "url": "/embc01/static/media/union.7959ccf4.jfif"
+    "revision": "2fe3fe9385036a630774e2bf00cbbdeb",
+    "url": "/embc01/static/media/union.2fe3fe93.jfif"
   },
   {
-    "revision": "16c9a29e6cabdfe586e33c81766c9f75",
-    "url": "/embc01/static/media/ace.16c9a29e.jpg"
+    "revision": "8ed23b264070f1651674ce4cbf04a255",
+    "url": "/embc01/static/media/logobase2.8ed23b26.png"
+  },
+  {
+    "revision": "8dfeacc746b5eed13510bf5cf8cf80a4",
+    "url": "/embc01/static/media/fabr.8dfeacc7.jpg"
+  },
+  {
+    "revision": "631d0554ad238158dde456a2ec8f5680",
+    "url": "/embc01/static/media/Tuberia3.631d0554.jpg"
+  },
+  {
+    "revision": "48816ebaa551917bcb56f823b0f2bd42",
+    "url": "/embc01/static/media/Pintura.48816eba.jpg"
   },
   {
     "revision": "079c00c2317eb1db5b7fea05f6d3be3c",
@@ -240,20 +244,24 @@ self.__precacheManifest = [
     "url": "/embc01/static/media/1.a0de7b66.jpg"
   },
   {
-    "revision": "ade4b4154482ed840c1b54378a2e13e1",
-    "url": "/embc01/static/media/fab1.ade4b415.jpg"
-  },
-  {
     "revision": "6c78f30cf320cdc8ad2d08c9e6755461",
     "url": "/embc01/static/media/CORTE.6c78f30c.png"
   },
   {
-    "revision": "7cfd98a130bdc531e182b4adc61f9061",
-    "url": "/embc01/static/media/hab.7cfd98a1.jpg"
+    "revision": "97620dbf8136646355bc0017817af530",
+    "url": "/embc01/static/media/hab.97620dbf.jpg"
   },
   {
-    "revision": "d5ea1fbe78cce126698e007a62a7b85d",
-    "url": "/embc01/static/media/grua.d5ea1fbe.jpg"
+    "revision": "97efbe457e16eca2e84ff16bfad537f1",
+    "url": "/embc01/static/media/pin.97efbe45.jpg"
+  },
+  {
+    "revision": "b9880156207ab867b04a5b7817c4ddb1",
+    "url": "/embc01/static/media/Sandblast.b9880156.jpg"
+  },
+  {
+    "revision": "f55a69eb262a9401c30c7378b3a496ba",
+    "url": "/embc01/static/media/montaje.f55a69eb.jpg"
   },
   {
     "revision": "85d952032685a8fe63d76e153b705953",
@@ -272,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embc01/static/media/2.4de1b442.jpg"
   },
   {
-    "revision": "5153ca27ed880444e411d6a6c4e2088f",
+    "revision": "7da9997cca4628a80fb0dc8056aac9b7",
     "url": "/embc01/index.html"
   }
 ];
